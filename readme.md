@@ -9,7 +9,6 @@
 #### Criando e acessando uma base de dados
 ```
 use <nome>
-
 ```
 *Caso você crie uma base e não a utilize, na próxima execução a base será removida.*
 
@@ -30,11 +29,18 @@ db.aluno.insert({
       }
   ]
 })
-
+```
+ou
+```
 db.joaoSilva.insert({ "nome": "Roberval" })
 ```
 
 #### Consultando dados
+- Equivalente ao `SELECT * FROM aluno`
 ```
-db.tabela.find()
+db.aluno.find()
+```
+- Equivalente ao `SELECT * FROM aluno WHERE ra=12`
+```
+db.aluno.find({ ra: 12 })
 ```
