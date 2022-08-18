@@ -4,13 +4,37 @@
 
 `https://www.mongodb.com/try/download/community`
 
-- Comandos vistos em aula
-`
--- Criar uma nova base de dados
+### Comandos vistos em aula
+
+#### Criando e acessando uma base de dados
+```
 use <nome>
 
--- Acessar uma base de dados existente
-use <nome>
+```
+*Caso você crie uma base e não a utilize, na próxima execução a base será removida.*
 
---Caso você crie uma base e não a utilize, na próxima execução a base será removida.
-`
+#### Criando Collection (tabela)
+A criação de uma collection é executada quando houver o primeiro INSERT
+```
+db.aluno.insert({
+  "aluno": "74000190",
+  "nome_completo": "Rodrigo Escobar",
+  "cursos": [
+      { 
+        "curso": "Ciencia da Comp.",
+        "ano_f": 2004
+      },
+      {
+        "pos": "Especialização em GE",
+        "ano": 2008
+      }
+  ]
+})
+
+db.joaoSilva.insert({ "nome": "Roberval" })
+```
+
+#### Consultando dados
+```
+db.tabela.find()
+```
