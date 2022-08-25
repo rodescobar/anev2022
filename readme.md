@@ -7,7 +7,7 @@ Prof. Rodrigo Escobar
 ## Aula02 - 09/08/2022
 - Entendendo o que é JSON
 - Trabalhando com arquvos JSON
-[Conteúdo](Aula02)
+- [Conteúdo](Aula02)
 
 ## Aula03 - Mongo - 16/08/2022
 - Instalação do MongoDB - Baixar o Community Server
