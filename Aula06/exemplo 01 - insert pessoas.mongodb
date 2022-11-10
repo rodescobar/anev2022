@@ -1,0 +1,56 @@
+db.nomes.insertMany([
+  {
+    nome: "Alice",
+    sexo: "F",
+    idade: 20,
+    cidade: "Jau"
+  },
+  {
+    nome: "Almeida",
+    sexo: "M",
+    idade: 25,
+    cidade: "Bauru"
+  },
+  {
+    nome: "Jennifer",
+    sexo: "F",
+    idade: 21,
+    cidade: "Pederneiras"
+  },
+  {
+    nome: "Jóbis",
+    sexo: "M",
+    idade: 40,
+    cidade: "Pederneiras"
+  },
+  {
+    nome: "Brigite",
+    sexo: "F",
+    idade: 22,
+    cidade: "Bauru"
+  },
+  {
+    nome: "Zenilda",
+    sexo: "F",
+    idade: 22,
+    cidade: "Jau"
+  },
+  {
+    nome: "Jared",
+    sexo: "M",
+    idade: 35,
+    cidade: "Jau"
+  },
+  {
+    nome: "Deivide Béquiram",
+    sexo: "M",
+    idade: 20,
+    cidade: "Bauru"
+  },
+  {
+    nome: "Josefi Klimber",
+    sexo: "M",
+    idade: 40,
+    cidade: "Agudos"
+  }
+])

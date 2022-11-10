@@ -1,0 +1,16 @@
+db.nomes
+  .aggregate(
+    [ 
+      { "$group": 
+            { 
+              _id: { 
+                cidade: "$cidade",
+                sexo: "$sexo"
+              }, 
+              count:{
+                $sum: 1
+              }
+            } 
+      } 
+    ]
+  )

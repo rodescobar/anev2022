@@ -1,0 +1,12 @@
+db.nomes
+    .find({
+        $or: [
+          { cidade: "Bauru" },
+          { cidade: "Jau"}
+        ]
+      })
+    .sort({
+      cidade: 1,
+      sexo: 1,
+      idade: -1
+    })
