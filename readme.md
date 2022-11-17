@@ -22,3 +22,36 @@ Prof. Rodrigo Escobar
 - Utilizando VSCODE para consultas ao Banco
 - Claúsulas: AND, OR, LIKE
 - [Conteúdo](Aula04)
+
+## Aula 06 - 31/08/2022
+- Comandos Mongo
+- Sort, Skip, Limit, Group by e Count
+
+## Aula 12 - 26/10/2022
+- Conhencedo NodeJS
+- Variáveis, condicionais e laços
+- Criando primeira aplicação
+```
+npm init
+```
+- Entendendo pacote express
+```
+npm install express
+```
+
+## 02/11/2022 - FERIADO
+
+## Aula 13 - 09/11/2022
+- Criando rotas em NodeJS
+- Criando estrutura para CRUD de clientes
+- Criando banco de dados no site MongoDB
+- Interligando NodeJS e MongoDB através do mongoose
+- Criando Model Cliente em nossa aplicação Node
+```
+Instalação do mongoose
+npm install mongoose
+```
+
+## Aula 14 - 16/11/2022
+- Revendo a criação de cliente através de nosso CRUD
+- Criando rotas para listar todos os clientes e listar um único cliente através do ID
