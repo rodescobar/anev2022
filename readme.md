@@ -39,7 +39,7 @@ Prof. Rodrigo Escobar
 
 ## Avaliação Bimestral 28/09/2022 
 
-## 05/10/2022 ?
+## Semana de avaliação 05/10/2022
 
 ## FERIADO 12/10/2022 
 
