@@ -44,6 +44,7 @@ Prof. Rodrigo Escobar
 ## FERIADO 12/10/2022 
 
 ## Aula 12 - 19/10/2022 
+OBS: Seria aula 07.. mas pulou para 12
 - Conhencedo NodeJS
 - Variáveis, condicionais e laços
 - Criando primeira aplicação
