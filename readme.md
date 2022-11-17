@@ -27,7 +27,23 @@ Prof. Rodrigo Escobar
 - Comandos Mongo
 - Sort, Skip, Limit, Group by e Count
 
-## Aula 12 - 26/10/2022
+## FERIADO 07/09/2022
+
+## ENADE 14/09/2022 
+- Em virtude da aplicação do ENADE para o curso de direito, não houve aula
+
+## Aula 07 - Revisão 
+- Revisão de aulas JSON e MongoDB
+- Exercícios e correção
+- Correção de exercícios Oracle
+
+## Avaliação Bimestral 28/09/2022 
+
+## 05/10/2022 ?
+
+## FERIADO 12/10/2022 
+
+## Aula 12 - 19/10/2022 
 - Conhencedo NodeJS
 - Variáveis, condicionais e laços
 - Criando primeira aplicação
@@ -39,9 +55,14 @@ npm init
 npm install express
 ```
 
-## 02/11/2022 - FERIADO
+## Aula 13 - 26/10/2022
+- Funcionamento de RESTAPI
+- Métodos de envio
+- Trabalhando com Thunder Client - Plugin VSCode
 
-## Aula 13 - 09/11/2022
+## FERIADO 02/11/2022
+
+## Aula 14 - 09/11/2022
 - Criando rotas em NodeJS
 - Criando estrutura para CRUD de clientes
 - Criando banco de dados no site MongoDB
@@ -52,6 +73,6 @@ Instalação do mongoose
 npm install mongoose
 ```
 
-## Aula 14 - 16/11/2022
+## Aula 15 - 16/11/2022
 - Revendo a criação de cliente através de nosso CRUD
 - Criando rotas para listar todos os clientes e listar um único cliente através do ID
