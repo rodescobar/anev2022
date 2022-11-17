@@ -77,3 +77,7 @@ npm install mongoose
 ## Aula 15 - 16/11/2022
 - Revendo a criação de cliente através de nosso CRUD
 - Criando rotas para listar todos os clientes e listar um único cliente através do ID
+- Instalação do Nodemon
+```
+npm install -g nodemon
+```
