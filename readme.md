@@ -81,3 +81,10 @@ npm install mongoose
 ```
 npm install -g nodemon
 ```
+
+## Aula 16 - 23/11/2022
+- Terminando o CRUD
+- Update
+- Exclusão
+- Exclusão lógica
+- Faça um CRUD como forma de estudo.
